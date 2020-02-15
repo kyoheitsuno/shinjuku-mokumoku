@@ -24,8 +24,8 @@ React、Redux周りは赤ちゃんに等しいので困ったらお力添えお�
 イベント関連をざっくり学んだ
 
 ・フェーズについて
-・From
-・defalutCalue
+・Form
+・defaultValue
 ・onChange
 ・refs
 
